@@ -1,0 +1,61 @@
+[
+  {
+    "data": {
+      "documentType": "CC",
+      "documentNumber": "71607122",
+      "plate": "JJM901",
+      "vehicleInformation": {
+        "color": "GRIS COMET",
+        "brand": "RENAULT",
+        "line": "DUSTER",
+        "status": "ACTIVO",
+        "enrollmentDate": "15/01/2018",
+        "plate": "JJM901"
+      },
+      "soat": {
+        "valid": true,
+        "expeditionDate": "14/02/2022",
+        "dueDate": "14/02/2023",
+        "coverageStartDate": "15/02/2022",
+        "soatNumber": "13743500008800"
+      },
+      "techReview": {
+        "valid": false,
+        "requireTechReview": false
+      },
+      "consultationDateTime": "2022-08-19T19:37:14.219Z",
+      "vehicleData": {
+        "soat": {
+          "vigente": true,
+          "fechaExpedicion": "14/02/2022",
+          "fechaVencimiento": "14/02/2023",
+          "fechaInicio": "15/02/2022",
+          "noSoat": "13743500008800",
+          "valido": true
+        },
+        "revision": {
+          "vigente": false,
+          "valido": true,
+          "reqrtm": false
+        },
+        "vehiculo": {
+          "color": "GRIS COMET",
+          "marca": "RENAULT",
+          "linea": "DUSTER",
+          "estado": "ACTIVO",
+          "valido": true,
+          "fmatri": "15/01/2018",
+          "placa": "JJM901"
+        },
+        "existe": false
+      }
+    },
+    "signature": {
+      "dateTime": "August 19, 2022 2:37 PM",
+      "message": "Certified by Verifik.co"
+    },
+    "metodo": "VEHICULO"
+  }
+]
+
+
