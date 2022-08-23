@@ -1,0 +1,57 @@
+{
+    "data": {
+      "documentType": "CC",
+      "documentNumber": "71607122",
+      "fullName": "FRANCISCO JOSE MAYA PATIÑO",
+      "totallicencias": 4,
+      "licencias": [
+        {
+          "licenceNumber": "110010000159443",
+          "dueDate": "07/04/2003",
+          "expeditionDate": "07/04/2000",
+          "category": "C1",
+          "status": "VENCIDA",
+          "substratum": ""
+        },
+        {
+          "licenceNumber": "71607122",
+          "dueDate": "20/02/2017",
+          "expeditionDate": "20/02/2014",
+          "category": "C1",
+          "status": "ACTIVA",
+          "substratum": "LC03000829855"
+        },
+        {
+          "licenceNumber": "71607122",
+          "dueDate": "30/11/2022",
+          "expeditionDate": "30/11/2012",
+          "category": "A2",
+          "status": "ACTIVA",
+          "substratum": "LC03000829855"
+        },
+        {
+          "licenceNumber": "71607122",
+          "dueDate": "20/02/2024",
+          "expeditionDate": "20/02/2014",
+          "category": "B1",
+          "status": "ACTIVA",
+          "substratum": "LC03000829855"
+        }
+      ],
+      "transitTaxes": {
+        "paceAndSafe": "SI",
+        "paceAndSafeNumber": "551836259060",
+        "transitTaxesNumber": "0",
+        "suspensionStatus": "NO",
+        "suspensionDate": "No Reporta",
+        "cancellationStatus": "NO",
+        "cancellationDate": "No Reporta"
+      },
+      "consultationDateTime": "2022-08-19T19:39:45.106Z"
+    },
+    "signature": {
+      "dateTime": "August 19, 2022 2:39 PM",
+      "message": "Certified by Verifik.co"
+    },
+    "metodo": "CONDUCTOR"
+  }
