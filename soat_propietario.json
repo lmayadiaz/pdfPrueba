@@ -1,0 +1,38 @@
+{
+    "data": {
+      "vehiculo": {
+        "placa": "JJM901",
+        "modelo": 2018,
+        "numeroChasis": "9FBHSR5B3JM111027",
+        "marca": "RENAULT",
+        "linea": "DUSTER",
+        "claseVehiculo": "CAMPERO"
+      },
+      "tarifa": {
+        "prima": 512200,
+        "contribucion": 266300,
+        "runt": 1900,
+        "costoTotal": 780400,
+        "codigoTarifa": 221
+      },
+      "propietarios": [
+        {
+          "id": 37877231,
+          "idTipoDocumento": "C",
+          "tipoDocumento": "CÃ©dula CiudadanÃ­a",
+          "noDocumento": "71607122",
+          "nombreCompleto": "FRANCISCO JOSE MAYA PATIÃO",
+          "primerNombre": "FRANCISCO",
+          "segundoNombre": "JOSE",
+          "primerApellido": "MAYA",
+          "segundoApellido": "PATIÃO",
+          "tipoPropiedad": 1
+        }
+      ]
+    },
+    "signature": {
+      "dateTime": "August 19, 2022 2:40 PM",
+      "message": "Certified by Verifik.co"
+    },
+    "metodo": "SOAT Y PROPIETARIO DE VEHICULO"
+  }
